@@ -31,7 +31,7 @@
 |[05. 자료구조와 자료형](https://github.com/Jobs-Js/JavaScript-Study/tree/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95)|[[배열과 메서드1](https://github.com/Jobs-Js/JavaScript-Study/blob/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EB%A9%94%EC%84%9C%EB%93%9C%201_%EA%B9%80%EB%AF%BC%EC%A7%80.pdf)|[배열과 메서드2](https://github.com/Jobs-Js/JavaScript-Study/blob/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EB%A9%94%EC%84%9C%EB%93%9C%202_%EC%98%A4%EB%82%98%EC%98%81.pdf)|[심볼](https://github.com/Jobs-Js/JavaScript-Study/blob/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95/%EC%8B%AC%EB%B3%BC_%EC%9D%B4%EC%9D%80%EC%A3%BC.pdf)|
 
 
-## 🎥 발표자료
+## 🎥 발표영상
 |민지|나영|은주|
 |---|---|---|
 |[객체 복사](https://youtu.be/77RT5BtYAxQ)|[this](https://youtu.be/56F0Eqi0ntY)|[new와 생성자](https://youtu.be/cCWnRsEZwZk)|
