@@ -23,12 +23,19 @@
 2. 발표가 끝난 후 자신의 PR을 스스로 머지합니다.
 
 
-## 🖼 발표자료
+## 🗂 발표자료
 |제목|민지|나영|은주|
 |------|---|---|---|
 |[02. 자바스크립트 기본](https://github.com/Jobs-Js/JavaScript-Study/tree/main/02.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8)|[함수](https://github.com/Jobs-Js/JavaScript-Study/blob/main/02.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8/%ED%95%A8%EC%88%98_%EA%B9%80%EB%AF%BC%EC%A7%80.pdf)|[반복문](https://github.com/Jobs-Js/JavaScript-Study/blob/main/02.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8/%EB%B0%98%EB%B3%B5%EB%AC%B8%EA%B3%BC%20switch%EB%AC%B8_%EC%98%A4%EB%82%98%EC%98%81.pdf)|[연산자](https://github.com/Jobs-Js/JavaScript-Study/blob/eunjoo/02.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%B3%B8/%EC%97%B0%EC%82%B0%EC%9E%90_%EC%9D%B4%EC%9D%80%EC%A3%BC.pdf)|
 |[04. 객체 기본](https://github.com/Jobs-Js/JavaScript-Study/tree/main/04.%20%EA%B0%9D%EC%B2%B4%20%EA%B8%B0%EB%B3%B8)|[객체 복사](https://github.com/Jobs-Js/JavaScript-Study/blob/main/04.%20%EA%B0%9D%EC%B2%B4%20%EA%B8%B0%EB%B3%B8/%EB%AF%BC%EC%A7%80_%EA%B0%9D%EC%B2%B4%20%EB%B3%B5%EC%82%AC.pdf)|[this](https://github.com/Jobs-Js/JavaScript-Study/blob/main/04.%20%EA%B0%9D%EC%B2%B4%20%EA%B8%B0%EB%B3%B8/this_%EC%98%A4%EB%82%98%EC%98%81.pdf)|[new와 생성자](https://github.com/Jobs-Js/JavaScript-Study/blob/main/04.%20%EA%B0%9D%EC%B2%B4%20%EA%B8%B0%EB%B3%B8/%EC%83%9D%EC%84%B1%EC%9E%90_%EC%9D%B4%EC%9D%80%EC%A3%BC.pdf)|
 |[05. 자료구조와 자료형](https://github.com/Jobs-Js/JavaScript-Study/tree/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95)|[]()|[배열과 메서드2](https://github.com/Jobs-Js/JavaScript-Study/blob/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95/%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EB%A9%94%EC%84%9C%EB%93%9C%202_%EC%98%A4%EB%82%98%EC%98%81.pdf)|[심볼](https://github.com/Jobs-Js/JavaScript-Study/blob/main/05.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%9E%90%EB%A3%8C%ED%98%95/%EC%8B%AC%EB%B3%BC_%EC%9D%B4%EC%9D%80%EC%A3%BC.pdf)|
+
+
+## 🎥 발표자료
+|민지|나영|은주|
+|---|---|---|
+|[객체 복사]()|[this](https://youtu.be/56F0Eqi0ntY)|[new와 생성자](https://youtu.be/cCWnRsEZwZk)|
+|[]()|[배열과 메서드2](https://youtu.be/hWoYm6tV6cA)|[심볼](https://youtu.be/hXtQVZfpb1A)|
 
 
 ## 🙋 스터디원
