@@ -34,8 +34,8 @@
 ## 🎥 발표자료
 |민지|나영|은주|
 |---|---|---|
-|[객체 복사]()|[this](https://youtu.be/56F0Eqi0ntY)|[new와 생성자](https://youtu.be/cCWnRsEZwZk)|
-|[]()|[배열과 메서드2](https://youtu.be/hWoYm6tV6cA)|[심볼](https://youtu.be/hXtQVZfpb1A)|
+|[객체 복사](https://youtu.be/77RT5BtYAxQ)|[this](https://youtu.be/56F0Eqi0ntY)|[new와 생성자](https://youtu.be/cCWnRsEZwZk)|
+|[배열과 메서드1](https://youtu.be/c4vcsJG83nA)|[배열과 메서드2](https://youtu.be/hWoYm6tV6cA)|[심볼](https://youtu.be/hXtQVZfpb1A)|
 
 
 ## 🙋 스터디원
