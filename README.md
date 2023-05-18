@@ -48,8 +48,8 @@
 
 <table>
   <tr>
-        <td align="center"><a href="https://github.com/kimmming"><img src="https://avatars.githubusercontent.com/u/48938203?v=4" width="100px;" alt=""/><br /><sub><b>김민지</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/ony540"><img src="https://avatars.githubusercontent.com/u/102240503?v=4" width="100px;" alt=""/><br /><sub><b>오나영</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/eunjoo0311"><img src="https://avatars.githubusercontent.com/u/120389195?v=4" width="100px;" alt=""/><br /><sub><b>이은주</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/kimmming"><img src="https://avatars.githubusercontent.com/u/48938203?v=4" width="150px;" alt=""/><br /><sub><b>김민지</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/ony540"><img src="https://avatars.githubusercontent.com/u/102240503?v=4" width="150px;" alt=""/><br /><sub><b>오나영</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/eunjoo0311"><img src="https://avatars.githubusercontent.com/u/120389195?v=4" width="150px;" alt=""/><br /><sub><b>이은주</b></sub></a><br /></td>
   </tr>
 </table>
