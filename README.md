@@ -42,8 +42,8 @@
 | ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
 | [객체 복사](https://youtu.be/77RT5BtYAxQ)      | [this](https://youtu.be/56F0Eqi0ntY)           | [new와 생성자](https://youtu.be/cCWnRsEZwZk) |
 | [배열과 메서드1](https://youtu.be/c4vcsJG83nA) | [배열과 메서드2](https://youtu.be/hWoYm6tV6cA) | [심볼](https://youtu.be/hXtQVZfpb1A)         |
-| [Map과 Set](https://youtu.be/L4_D6FZ5JN8) | [JSON과 메서드](https://youtu.be/lY3eB6P7kOI) | [Object keys, values, entries](https://youtu.be/Vg1iWyH8dmU)         |
-| [나머지 매개변수와 스프레드 문법](https://youtu.be/pWH9UI6_2PA) | [변수 유효범위와 클로저](https://youtu.be/hWRAf65gqRk) | [재귀와 스택](https://youtu.be/YXSRLrx7Jz8)         |
+| [Map과 Set](https://youtu.be/OEW91sXQ5Nw) | [JSON과 메서드](https://youtu.be/lY3eB6P7kOI) | [Object keys, values, entries](https://youtu.be/Vg1iWyH8dmU)         |
+| [나머지 매개변수와 스프레드 문법](https://youtu.be/7p_yu-rVjJ8) | [변수 유효범위와 클로저](https://youtu.be/hWRAf65gqRk) | [재귀와 스택](https://youtu.be/YXSRLrx7Jz8)         |
 | [호출스케일링](https://youtu.be/JRPop0kandY) | [new Function 문법](https://youtu.be/DTUsbJBdlso) | []()         |
 
 ## 🙋 스터디원
