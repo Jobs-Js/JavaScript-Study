@@ -46,6 +46,8 @@
 | [Map과 Set](https://youtu.be/OEW91sXQ5Nw) | [JSON과 메서드](https://youtu.be/lY3eB6P7kOI) | [Object keys, values, entries](https://youtu.be/Vg1iWyH8dmU)         |
 | [나머지 매개변수와 스프레드 문법](https://youtu.be/7p_yu-rVjJ8) | [변수 유효범위와 클로저](https://youtu.be/BowzIbvcQIY) | [재귀와 스택](https://youtu.be/kNWHOnj2hKg)         |
 | [호출스케일링](https://youtu.be/H1pHHdCbqBU) | [new Function 문법](https://youtu.be/oWe160wRXMQ) | []()         |
+| [프로토타입 상속](https://youtu.be/8iMbGLyp5NQ) | [클래스의 기본문법](https://youtu.be/-ADDj3ksve0) | [getter와 setter](https://youtu.be/8LHIqW8z4jY)         |
+| []() | [클래스의 상속](https://youtu.be/NCLjM1xYiIk) | []()         |
 
 ## 🙋 스터디원
 
