@@ -35,7 +35,7 @@
 | [06. 함수 심화학습](https://github.com/Jobs-Js/JavaScript-Study/tree/main/06.%20%ED%95%A8%EC%88%98%20%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5) | [나머지 매개변수와 스프레드 문법](https://github.com/Jobs-Js/JavaScript-Study/blob/main/06.%20%ED%95%A8%EC%88%98%20%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5/%EB%82%98%EB%A8%B8%EC%A7%80%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98_%EA%B9%80%EB%AF%BC%EC%A7%80.pdf) | [변수의 유효범위와 클로저](https://github.com/Jobs-Js/JavaScript-Study/blob/14f92e81bcde2123948d99315c1e5fafcb97876f/06.%20%ED%95%A8%EC%88%98%20%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5/%EB%B3%80%EC%88%98%20%EC%9C%A0%ED%9A%A8%EB%B2%94%EC%9C%84%EC%99%80%20%ED%81%B4%EB%A1%9C%EC%A0%80_%EC%98%A4%EB%82%98%EC%98%81.pdf) | [재귀와 스택](https://github.com/Jobs-Js/JavaScript-Study/blob/main/06.%20%ED%95%A8%EC%88%98%20%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5/%EC%9E%AC%EA%B7%80%EC%99%80%20%EC%8A%A4%ED%83%9D_%EC%9D%B4%EC%9D%80%EC%A3%BC.pdf)              |
 | |[호출 스케줄링](https://github.com/Jobs-Js/JavaScript-Study/blob/main/06.%20%ED%95%A8%EC%88%98%20%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5/%ED%98%B8%EC%B6%9C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81_%EA%B9%80%EB%AF%BC%EC%A7%80.pdf) |[new Function 문법](https://github.com/Jobs-Js/JavaScript-Study/blob/14f92e81bcde2123948d99315c1e5fafcb97876f/06.%20%ED%95%A8%EC%88%98%20%EC%8B%AC%ED%99%94%ED%95%99%EC%8A%B5/new%20Function%20%EB%AC%B8%EB%B2%95_%EC%98%A4%EB%82%98%EC%98%81.pdf) | |
 | 07 - 09 | []() | [클래스의 기본문법과 상속](https://github.com/Jobs-Js/JavaScript-Study/tree/main/09.%20%ED%81%B4%EB%9E%98%EC%8A%A4) | [getter setter](https://github.com/Jobs-Js/JavaScript-Study/blob/main/07.%20%EA%B0%9D%EC%B2%B4%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%84%A4%EC%A0%95/%EC%9D%B4%EC%9D%80%EC%A3%BC_getter%20setter.pdf)              |
-| 09 - 11 | []() | ["try catch"와 에러 핸들링](https://github.com/Jobs-Js/JavaScript-Study/blob/main/10.%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81/'try%20catch'%EC%99%80%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81.pdf) | []()              |
+| 09 - 11 | []() | ["try catch"와 에러 핸들링](https://github.com/Jobs-Js/JavaScript-Study/blob/main/10.%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81/'try%20catch'%EC%99%80%20%EC%97%90%EB%9F%AC%20%ED%95%B8%EB%93%A4%EB%A7%81.pdf) | [private protected](https://github.com/Jobs-Js/JavaScript-Study/blob/eunjoo/09.%20%ED%81%B4%EB%9E%98%EC%8A%A4/%EC%9D%B4%EC%9D%80%EC%A3%BC_private%2Cprotected.pdf)              |
 
 
 ## 🎥 발표영상
@@ -49,7 +49,7 @@
 | [호출스케일링](https://youtu.be/H1pHHdCbqBU) | [new Function 문법](https://youtu.be/oWe160wRXMQ) | []()         |
 | [프로토타입 상속](https://youtu.be/8iMbGLyp5NQ) | [클래스의 기본문법](https://youtu.be/-ADDj3ksve0) | [getter와 setter](https://youtu.be/8LHIqW8z4jY)         |
 | []() | [클래스의 상속](https://youtu.be/NCLjM1xYiIk) | []()         |
-| [Promise](https://youtu.be/AuloNe79MWQ) | ["try catch"와 에러 핸들링](https://youtu.be/ZCjDjkxXuqY) | [private](https://youtu.be/MJZ88jQ0bUE)         |
+| [Promise](https://youtu.be/AuloNe79MWQ) | ["try catch"와 에러 핸들링](https://youtu.be/ZCjDjkxXuqY) | [private protected](https://youtu.be/MJZ88jQ0bUE)         |
 
 ## 🙋 스터디원
 
