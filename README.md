@@ -50,7 +50,8 @@
 | [호출스케일링](https://youtu.be/H1pHHdCbqBU) | [new Function 문법](https://youtu.be/oWe160wRXMQ) | []()         |
 | [프로토타입 상속](https://youtu.be/8iMbGLyp5NQ) | [클래스의 기본문법](https://youtu.be/-ADDj3ksve0) | [getter와 setter](https://youtu.be/8LHIqW8z4jY)         |
 | []() | [클래스의 상속](https://youtu.be/NCLjM1xYiIk) | []()         |
-| [Promise](https://youtu.be/AuloNe79MWQ) | ["try catch"와 에러 핸들링](https://youtu.be/ZCjDjkxXuqY) | [private protected](https://youtu.be/MJZ88jQ0bUE)         |
+| [Promise](https://youtu.be/AuloNe79MWQ) | ["try catch"와 에러 핸들링](https://youtu.be/ZCjDjkxXuqY) | [private protected](https://youtu.be/MJZ88jQ0bUE)     |
+| [Promise와 에러 핸들링](https://youtu.be/0vvaT5PlK0E) | [async await](https://youtu.be/7FgPk8XzdKo) | [제너레이터](https://youtu.be/S0C8KCtTzHI)     |
 
 ## 🙋 스터디원
 
